@@ -1,0 +1,20 @@
+#view point
+0 0 50
+#direction of view, angle theta and phi
+90 0
+#default refractiveIndex
+1
+#distance of retina from view point
+15
+#resolution ratio
+3840 2160
+#retina scale
+0.00125
+#focal length of the camera
+900
+#aperture size of the camera
+5
+#number of rays
+128
+#anti-aliasing parameter
+4

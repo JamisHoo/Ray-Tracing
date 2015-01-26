@@ -1,0 +1,28 @@
+#newmtl mtl name, color, ambient coef, diffuse reflectivity, specular reflectivity, 
+#       shininess, refractiveIndex, reflection weight, refraction weight, 
+#       texture file, texture scale ratio
+newmtl wall 0 0 0 3 0.5 5 10000 1 0 0 0 images/10.jpg 0.35
+
+newmtl water 0 0 0 30 0.001 5 1000 1.33 2 10 1 images/6.jpg 0.25
+
+newmtl ceiling 0 0 0 3 0.5 5 10000 1 0 0 0 images/14.jpg 0.25
+
+newmtl floor 0 0 0 3 0.5 5 10000 1 0 0 0 images/7.jpg 0.25
+
+newmtl footstep 0 0 0 3 0.5 5 10000 1 0 0 0 images/15.jpg 0.25
+
+newmtl table 0 0 0 3 0.5 5 10000 1 0 0 0 images/16.jpg 0
+
+newmtl marble0 0 0 0 10 1 15 8.5 1 0 0 0 images/17.jpg 0
+newmtl marble1 0 0 0 10 1 15 8.5 1 0 0 0 images/18.jpg 0
+newmtl marble2 0 0 0 10 1 15 8.5 1 0 0 0 images/19.jpg 0
+newmtl marble3 0 0 0 10 1 15 8.5 1 0 0 0 images/20.jpg 0
+newmtl marble4 0 0 0 10 1 15 8.5 1 0 0 0 images/21.jpg 0
+
+
+newmtl ball 221 125 22  10 1 15 8.5 1 0.5 0 0
+
+newmtl glass 255 255 255 0.000001 0.1 20 20 1.4 0.2 1 1
+
+newmtl lightsource 255 255 255 0 0 0 0 0 0 0 0
+
