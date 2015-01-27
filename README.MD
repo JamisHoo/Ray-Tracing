@@ -3,19 +3,19 @@
 This program can generate images according to the input scene description.
 
 ##Features
-backward raytracing
+Backward raytracing
 
-material
+Material
 
-texture
+Texture
 
-depth of field
+Depth of field
 
-anti-aliasing
+Anti-aliasing
 
-speed up with octree and multithreading 
+Speed up with octree and multithreading 
 
-self-defined(not standard) obj file.
+Self-defined(not standard) obj file.
 
 
 ##LICENSE
